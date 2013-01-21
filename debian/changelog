@@ -1,4 +1,6 @@
-laptop-mode-tools (1.62-1) experimental; urgency=low
+laptop-mode-tools (1.62-1ubuntu1) quantal; urgency=low
+
+  * Local build for Ubuntu Quantal PPA
 
   * New Upstream Release
   * [8302c24] Fix spec file for RPM syntax
@@ -21,7 +23,7 @@ laptop-mode-tools (1.62-1) experimental; urgency=low
   * [213c78b] Handle creation of enabled file through systemd's tmpfiles.d
     framework
 
- -- Ritesh Raj Sarraf <rrs@debian.org>  Sat, 27 Oct 2012 14:50:49 +0530
+ -- Ritesh Raj Sarraf <rrs@debian.org>  Mon, 21 Jan 2013 20:03:56 +0530
 
 laptop-mode-tools (1.61-1) unstable; urgency=low
 
