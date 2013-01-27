@@ -1,4 +1,4 @@
-laptop-mode-tools (1.62-1ubuntu1ppa1~quantal1) quantal; urgency=low
+laptop-mode-tools (1.62-1ubuntu1ppa2~precise1) precise; urgency=low
 
   * Local build for Ubuntu Quantal PPA
 
