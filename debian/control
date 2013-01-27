@@ -11,7 +11,7 @@ Standards-Version: 3.9.2
 Package: laptop-mode-tools
 Architecture: all
 Depends: ${misc:Depends}, lsb-base (>= 3.0-10), util-linux (>= 2.13), psmisc
-Recommends: hdparm, sdparm, ethtool, net-tools, wireless-tools, udev, pm-utils (>= 1.4.1-9ppa1~quantal1)
+Recommends: hdparm, sdparm, ethtool, net-tools, wireless-tools, udev, pm-utils (>= 1.4.1-9ppa1~precise1)
 Suggests: acpid | apmd | pbbuttonsd | pmud, hal
 Conflicts: noflushd
 Description: Tools for Power Savings based on battery/AC status
